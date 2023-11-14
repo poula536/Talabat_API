@@ -1,0 +1,15 @@
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\bin\Release\net6.0\Talabat.Service.deps.json
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\bin\Release\net6.0\Talabat.Service.dll
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\bin\Release\net6.0\Talabat.Service.pdb
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\bin\Release\net6.0\Talabat.Core.dll
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\bin\Release\net6.0\Talabat.Core.pdb
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\Talabat.Service.csproj.AssemblyReference.cache
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\Talabat.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\Talabat.Service.AssemblyInfoInputs.cache
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\Talabat.Service.AssemblyInfo.cs
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\Talabat.Service.csproj.CoreCompileInputs.cache
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\Talabat.Service.csproj.CopyComplete
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\Talabat.Service.dll
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\refint\Talabat.Service.dll
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\Talabat.Service.pdb
+E:\Eng Ahmed Nasr\07 ASP.NET MVC\Session 02\Demos\TalabatAPIs\Talabat.Service\obj\Release\net6.0\ref\Talabat.Service.dll
